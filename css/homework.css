@@ -622,7 +622,7 @@ font-family: 'Raleway';
 }
 
 .contacts__input-wrapper {
-display: flex;
+  display: flex;
 }
 
 .contacts__input-conteiner {
